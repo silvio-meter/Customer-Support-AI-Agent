@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "query": "I haven't received my order yet. Order #48291",
+    "expected_category": "Shipping Issue",
+    "expected_tone": "Empathetic"
+  },
+  {
+    "id": 2,
+    "query": "Your product gave me a rash. I want a refund!",
+    "expected_category": "Complaint",
+    "expected_tone": "Calm and Solution-Oriented"
+  }
+]
